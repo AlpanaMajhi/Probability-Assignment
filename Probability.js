@@ -1,7 +1,7 @@
 const noOfRecords = {
-    "Red": 100,
-    "Green": 150,
-    "Blue": 160
+    "Red": 1000,
+    "Green": 150000,
+    "Blue": 20000000
 }
 
 //Function to return array of balls
