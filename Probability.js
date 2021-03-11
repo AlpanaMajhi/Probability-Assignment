@@ -68,7 +68,7 @@ function probablity() {
         Blue = noOfRecords.Blue
         i = i + 1
     }
-    
+    //console.log(totalNoOfBalls, Red, Green, Blue);
     let finalNoOfBalls = totalNoOfBalls * (totalNoOfBalls - 1)
     let probablityOfBothRed = ((Red * (Red - 1)) / (finalNoOfBalls))
     let probablityOfBothGreen = ((Green * (Green - 1)) / (finalNoOfBalls))
